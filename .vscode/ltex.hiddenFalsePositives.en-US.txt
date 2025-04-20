@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIn the original game, I actually had toon shading set up.\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QFor example, if I was to make a game or sequence inside of a game similar to Google's Quick, Draw!\\E$"}
