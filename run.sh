@@ -1,2 +1,1 @@
-#!/usr/bin/env sh
-bundle exec jekyll serve --livereload --port 5000
+sudo bundle exec jekyll serve --livereload --port 5000
